@@ -1,0 +1,23 @@
+.Meme {
+  position: relative;
+}
+
+.Meme img {
+  width: 320px;
+  height: 320px;
+  margin: 10px;
+  border-radius: 6px;
+}
+
+.Meme span {
+  display: block;
+  font-size: 20px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  font-size: 3em;
+}
+
+.Meme-bottom-text {
+  height: 40px;
+}
